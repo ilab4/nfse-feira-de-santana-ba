@@ -623,7 +623,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body>
 <div class="container">
-    <h1>🧾 NFSe - ABRASF 2.02</h1>
+    <h1>🧾 NFSe - ABRASF 2.02 - Feira de Santana/BA</h1>
     <p class="subtitle">
         WebISS - Feira de Santana/BA (IBGE: 2910800) |
         <span class="env-badge <?= $config['ambiente'] === 'producao' ? 'env-prod' : 'env-hom' ?>">
